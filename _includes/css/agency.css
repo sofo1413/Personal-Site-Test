@@ -796,6 +796,7 @@ ul.social-buttons li a:active {
 
 .aboutsection {
     width: 85%;
+    padding-left: 10px;
 }
 .portfolio-modal .close-modal .lr .rl {
     z-index: 1052;
