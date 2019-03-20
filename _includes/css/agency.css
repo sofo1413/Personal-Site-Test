@@ -19,7 +19,7 @@ body {
 }
 
 p {
-    font-size: 14px;
+    font-size: 17px;
     line-height: 1.75;
 }
 
@@ -282,8 +282,6 @@ header .intro-text {
     padding-bottom: 200px;
 }
 
-
-}
 
 section {
     padding: 100px 0;
@@ -795,6 +793,10 @@ ul.social-buttons li a:active {
     transform: rotate(45deg);
 }
 
+
+.aboutsection {
+    height: 100%;
+}
 .portfolio-modal .close-modal .lr .rl {
     z-index: 1052;
     width: 1px;
