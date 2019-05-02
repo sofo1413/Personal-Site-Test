@@ -1,0 +1,13 @@
+---
+title: Women in STEM 
+subtitle: Application Prototype and Design
+layout: default
+modal-id: 1
+date: 2014-07-18
+thumbnail: women.jpg
+alt: image-alt
+img: https://projects.invisionapp.com/static-signed/live-embed/247319900/292641681/3/latest/yqlErAp1v4S5NJQMYR0SS1A0hk88UsibnvTNUkmhDC63XPz0Zo03ykyXKCn1nCWJ3Y2zRPb4Tc2BflEWhysOU0AglE/homepage.png
+description: https://projects.invisionapp.com/static-signed/live-embed/247319900/292641681/3/latest/yqlErAp1v4S5NJQMYR0SS1A0hk88UsibnvTNUkmhDC63XPz0Zo03ykyXKCn1nCWJ3Y2zRPb4Tc2BflEWhysOU0AglE/homepage.png
+ Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---
