@@ -14,12 +14,9 @@
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
-                            {% unless post.images %}
-                              <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            {% endunless %}
-                            {% for image in post.images %}
+                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            {% for image in post.additional-images %}
                               <img src="img/portfolio/{{ image.url }}" class="img-responsive img-centered" alt="{{ image.alt }}">
-                              <!-- <h3>Image: {{ image.url }}</h3><h3>Alt: {{ image.alt }}</h3> -->
                             {% endfor %}
                             <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
