@@ -6,6 +6,11 @@ modal-id: 3
 date: 2014-07-16
 img: photocomp.jpg
 thumbnail: photocomp.jpg
+images:
+  - url: photocomp.jpg
+    alt: photocomp-alt
+  - url: dalemain.jpg
+    alt: photo-2-alt
 alt: image-alt
 project-date: April 2014
 category: Web Development
