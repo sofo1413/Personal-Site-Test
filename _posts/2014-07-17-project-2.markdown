@@ -1,15 +1,17 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Dale House Project
+subtitle: Application Design
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+img: dalemain.jpg
+thumbnail: dalemain.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: This is an app prototype design for a non-profit that houses abused, abandoned and neglected youth. This prototype was created to give a basic design and as a result, not all buttons are functional at this point in time.Inspiration- My mother works at a Non-Profit called the Dale House Project which aims to build relationships with at-risk youth and help them build skills for a successful life not involving toxic and criminal activities. Her involvement caused our family to quickly become passionate about the cause and because I have been studying TAM, she asked if I could design a prototype for an app that staff could use for scheduling for both themselves and the youth residents they work with.  
+
+
 
 ---

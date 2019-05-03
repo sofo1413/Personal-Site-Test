@@ -1,6 +1,6 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Storytelling Photo Book
+subtitle: Photography, Photoshop and Lightroom
 layout: default
 modal-id: 4
 date: 2014-07-15
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: The purpose of this project was to create a photo book that incorporated storytelling through images.  I greatly resonate with and admire the poetry of Rupi Kaur, so I decided to use her poems and take a photo that corresponded with each poem.  The story touches on many struggles including the beauty standard of society, relationships (including abusive relationships or difficult breakups) and self-discovery in a number of ways.  This project truly sparked my passion for social justice and activism and also affected the way I view storytelling as a tool for both healing and seeking truth.
 
 ---
