@@ -14,6 +14,4 @@ project-date: April 2014
 category: Web Development
 description: The purpose of this project was to create a photo composition of at least four photos in Adobe Photoshop and Adobe Lightroom.  I took photos of my roommates in an emotional progression that can be interpreted in many different ways including themes of support and spirituality to convey that people are loved throughout hardships.  This greatly overlaps with my domain of social activism in supporting one another.
 
-
-
 ---

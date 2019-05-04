@@ -17,19 +17,17 @@
                             <img src="{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             {% for image in post.additional-images %}
                               <img src="{{ image.url }}" class="img-responsive img-centered" alt="{{ image.alt }}">
+                              {% endfor %}
+                            {% for proto in post.prototypes %}
+                                <iframe width="438" height="930" src="//invis.io/KMHGD1SGFZJ" frameborder="0" allowfullscreen></iframe>
                             {% endfor %}
-                            <p>{{ post.description }}</p>
+                            <p style="text-align: left">{{ post.description }}</p>
+                            {% for descript in post.additional-descript %}
+                                <p style="text-align: left">{{ post.additional-descript }}</p>
+                            {% endfor %}
                             <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">{{ post.client }}</a>
-                                    </strong>
-                                </li>
                                 <li>Date:
-                                    <strong><a href="http://startbootstrap.com">{{ post.project-date }}</a>
-                                    </strong>
-                                </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
+                                    <strong>{{ post.project-date }}
                                     </strong>
                                 </li>
                             </ul>
