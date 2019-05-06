@@ -4,7 +4,7 @@ subtitle: Application Prototype and Design
 layout: default
 modal-id: 1
 date: 2014-07-18
-thumbnail: women.jpg
+thumbnail: women.jpg 
 prototypes: //invis.io/KMHGD1SGFZJ
 project-date: April 2018
 category: Web Development
