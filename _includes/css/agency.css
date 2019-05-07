@@ -18,6 +18,11 @@ body {
     color: #{{ site.data.template.color.primary }};
 }
 
+#resumestyle {
+    width: 100%;
+    height: 800px;
+}
+
 p {
     font-size: 14px;
     line-height: 1.75;

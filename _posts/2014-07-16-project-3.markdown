@@ -7,11 +7,24 @@ date: 2014-07-16
 img: img/portfolio/photocomp.jpg
 thumbnail: photocomp.jpg
 additional-images:
-  - url: img/portfolio/dalemain.jpg
-    alt: photo-2-alt
-alt: image-alt
-project-date: April 2014
+  - url: img/portfolio/background.jpg
+    alt: background image
+  - url: img/portfolio/grass.jpg
+    alt: grass image
+  - url: img/portfolio/pc1.jpg
+    alt: pic 1
+  - url: img/portfolio/pc2.jpg
+    alt: pic 2
+  - url: img/portfolio/pc3.jpg
+    alt: pic 3
+  - url: img/portfolio/pc4.jpg
+    alt: pic 4
+alt: photo composition
+project-date: April 2018
 category: Web Development
-description: The purpose of this project was to create a photo composition of at least four photos in Adobe Photoshop and Adobe Lightroom.  I took photos of my roommates in an emotional progression that can be interpreted in many different ways including themes of support and spirituality to convey that people are loved throughout hardships.  This greatly overlaps with my domain of social activism in supporting one another.
+description: <strong>INSPIRATION </strong> - The purpose of this project was to create a photo composition of at least four photos in Adobe Photoshop and Adobe Lightroom.  I took photos of my roommates in an emotional progression that can be interpreted in many different ways including themes of support and spirituality to convey that people are loved throughout hardships.  This greatly overlaps with my domain of social activism in supporting one another.
+additional-descript:
+- <strong>TECHNICAL DETAILS</strong> - This piece was my first project using Adobe Photoshop and I was able to utilize many tools in order to remove the boats in the original photo and replace them with the grass photo above, incorporate the photos of my roommates, and overlap them with increasing opacity using masks. 
+
 
 ---
