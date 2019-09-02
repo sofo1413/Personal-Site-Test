@@ -118,6 +118,29 @@ fieldset[disabled] .btn-primary.active {
     background-color: #fff;
 }
 
+.halfwidth {
+    display: inline-block;
+    width: 44%;
+    margin: 2%;
+    padding: 2%;
+}
+
+.fullwidthcentered {
+    width: 94%;
+    margin: 2%;
+    padding: 2%;
+    text-align: center;
+}
+
+#resume {
+    width: 80%;
+    height: auto;
+}
+
+.imgwidth {
+    width:85%;
+}
+
 .btn-xl {
     padding: 20px 40px;
     border-color: #{{ site.data.template.color.primary }};
@@ -391,7 +414,7 @@ section h3.section-subheading {
     }
 }
 
-/*.timeline {
+.timeline {
     position: relative;
     padding: 0;
     list-style: none;
@@ -614,7 +637,7 @@ section h3.section-subheading {
 aside.clients img {
     margin: 50px auto;
 }
-*/
+
 section#contact {
     background-color: #222;
     background-image: url('{{ site.baseurl }}/img/map-image.png');

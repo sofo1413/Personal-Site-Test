@@ -1,0 +1,14 @@
+---
+title: Women in STEM App
+subtitle: Prototype and Application Design
+layout: default
+modal-id: 1
+date: 2019-04-28
+img: dreams.png
+thumbnail: women.jpg
+alt: image-alt
+project-date: April 2018
+category: Web Development
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---
