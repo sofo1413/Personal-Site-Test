@@ -15,9 +15,11 @@ body {
     color: #{{ site.data.template.color.primary }};
 }
 
-#aboutsection {
-    text-align: left;
+.aboutsection {
+    width: 85%;
+    padding-left: 10px;
 }
+
 #resumestyle {
     width: 100%;
     height: 800px;
