@@ -4,41 +4,16 @@ baseurl: /sofo1413.github.io/
 # theme: agency-jekyll-theme
 
 # Site settings
-title: Sophie Foster
-email: sofo1413@colorado.edu
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-=======
-
-# Site settings
 title: sophie foster
 email: sophie.foster@colorado.edu
 description: "This is Sophie Foster's professional website!  She is a web developer and designer."
 
->>>>>>> 6c4f4447536ce2f7e9080f42b32b257bf521d40c
 
 plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
   
-<<<<<<< HEAD
-# Team names, titles and social links
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-# social:
-#   - title: twitter
-#     url: http://twitter.com/jekyllrb
-#   - title: facebook
-#     url:
-#   - title: stack-overflow
-#     url: http://stackoverflow.com/questions/tagged/jekyll
-#   - title: bitbucket 
-#     url: http://bitbucket.org/jekyll
-#   - title: github
-#     url: http://github.com/jekyll
-=======
->>>>>>> 6c4f4447536ce2f7e9080f42b32b257bf521d40c
-
 # Build settings
 markdown: kramdown
 permalink: pretty
