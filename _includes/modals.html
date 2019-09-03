@@ -14,6 +14,7 @@
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
+<<<<<<< HEAD
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
@@ -27,6 +28,25 @@
                                 </li>
                                 <li>Service:
                                     <strong><a href="http://startbootstrap.com">{{ post.category }}</a>
+=======
+                            <img src="{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            {% for image in post.additional-images %}
+                              <img src="{{ image.url }}" class="img-responsive img-centered" alt="{{ image.alt }}">
+                              {% endfor %}
+                            {% for proto in post.prototypes %}
+                                <iframe width="438" height="930" src="//invis.io/KMHGD1SGFZJ" frameborder="0" allowfullscreen></iframe>
+                            {% endfor %}
+                            <p style="text-align: left">{{ post.description }}</p>
+                            {% for descript in post.additional-descript %}
+                                <p style="text-align: left">{{ post.additional-descript }}</p>
+                            {% endfor %}
+                            {% for descript2 in post.additional-descript-2 %}
+                                <p style="text-align: left">{{ post.additional-descript-2 }}</p>
+                            {% endfor %}
+                            <ul class="list-inline item-details">
+                                <li>Date:
+                                    <strong>{{ post.project-date }}
+>>>>>>> 6c4f4447536ce2f7e9080f42b32b257bf521d40c
                                     </strong>
                                 </li>
                             </ul>

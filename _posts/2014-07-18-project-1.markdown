@@ -1,0 +1,20 @@
+---
+title: Women in STEM
+subtitle: Application Prototype and Design
+layout: default
+modal-id: 1
+date: 2014-07-18
+thumbnail: women.JPG 
+prototypes: //invis.io/KMHGD1SGFZJ
+project-date: April 2018
+category: Web Development
+description: <strong>INSPIRATION</strong> - The purpose of this project was to create an infographic on a topic of interest that effectively conveyed data to the audience.  I chose the topic of Women in STEM Fields because there are many misconceptions of whether or not numbers are growing, staying the same and so on, as well as the pay gap and several other subjects.  This allowed for me to learn more about the topic myself, meanwhile finding a passion for seeking truth which has become one of my primary domains through social activism and shedding light on difficult realities.
+additional-descript: 
+- <strong>TECHNICAL DETAILS</strong> - All pages of this app were initially created in Adobe Illustrator and were then transferred into InVision to create the working prototype.  Each page is is within one click to return back to the table of contents and each also has an infographic of a different theme.
+additional-descript-2:
+- This project greatly contributed to my love for design because I was able to better understand the difficulties of making an app easy to navigate, filled with information without looking crammed, and selecting colors and shapes to create intuitive and captivating infographics.
+
+
+
+
+---

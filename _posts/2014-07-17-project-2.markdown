@@ -1,0 +1,27 @@
+---
+title: Dale House Project
+subtitle: Application Design
+layout: default
+modal-id: 2
+date: 2014-07-17
+img: img/portfolio/dalemain.jpg
+thumbnail: dalemain.jpg
+alt: image-alt
+additional-images:
+  - url: img/portfolio/daleorig.jpg
+    alt: original logo
+  - url: img/portfolio/dalehome.jpg
+    alt: home page
+  - url: img/portfolio/dalesearch.jpg
+    alt: home page
+  - url: img/portfolio/dalemonth.jpg
+    alt: home page
+project-date: January 2019
+category: Web Development
+description: This is an app prototype design for a non-profit that houses abused, abandoned and neglected youth. This prototype was created to give a basic design and as a result, not all buttons are functional at this point in time.
+additional-descript: 
+- <strong>INSPIRATION </strong> - My mother works at a Non-Profit called the Dale House Project which aims to build relationships with at-risk youth and help them build skills for a successful life not involving toxic and criminal activities. Her involvement caused our family to quickly become passionate about the cause and because I have been studying Technology, Arts and Media, she asked if I could design a prototype for an app that staff could use for scheduling for both themselves and the youth residents they work with.
+additional-descript-2:
+- <strong>TECHNICAL DETAILS</strong> - Because this app was created primarily as a design mock-up, several pages would still need to be added before the final product would be ready to deploy, however this gives the organization a glimpse into what an app could look like and its basic functionality. I redesigned the logo for the company, transitioning from a very traditional logo to a more modern and sleek style.
+
+---
